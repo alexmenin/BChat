@@ -35,7 +35,7 @@
 
 <p dir="auto">FAZENDO DOWNLOAD DO INSTALADOR &amp; INICIANDO A PRIMEIRA INSTALA&Ccedil;&Atilde;O:<br />
 
-<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Whaticket-Saas-2024 && sudo git clone https://github.com/lisboa-codes/Whaticket-Saas-2024.git && cd Whaticket-Saas-2024 && sudo chmod +x ./whatstalk && ./whatstalk</code><br />
+<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Whaticket-Saas-2024 && sudo git clone https://github.com/alexmenin/BChat.git && cd Whaticket-Saas-2024 && sudo chmod +x ./bchat && ./bchat</code><br />
 &nbsp;</p>
 
 <h2 dir="auto">Para a instala&ccedil;&atilde;o voc&ecirc; vai precisar:</h2>
