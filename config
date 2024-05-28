@@ -1,0 +1,8 @@
+deploy_password=15995123
+mysql_root_password=15995123
+db_pass=15995123
+jwt_secret=5iIMxeDIHSI3kQnY5ziu5gtIboIZhV0QDIr6cNRZqEU=
+jwt_refresh_secret=mT+lTSQlNktD4MdSs1H754HtfpKq2M0S3KnbcUcG0B4=
+deploy_email=deploy@bchat.pro
+db_user=bchat
+db_name=bchat
